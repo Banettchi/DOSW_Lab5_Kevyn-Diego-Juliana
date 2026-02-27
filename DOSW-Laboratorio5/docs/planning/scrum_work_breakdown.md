@@ -11,7 +11,6 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | Campo | Descripción |
 |------|-------------|
 | **ID** | EP-01 |
-| **ID Jira** | KAN-14 |
 | **Título** | Gestión de Depósitos Bancarios |
 | **Descripción** | Bankify necesita esta épica para permitir que los usuarios autenticados realicen depósitos a cuentas bancarias activas de forma segura y controlada. Esta funcionalidad es el núcleo operativo del sistema financiero, ya que habilita el flujo de dinero entre cuentas, garantiza la trazabilidad de las transacciones y valida la integridad de los datos antes de actualizar los saldos. Sin esta épica, el sistema no puede cumplir su propósito principal como plataforma bancaria digital. |
 | **Stakeholder** | Cliente (propietario de cuenta) y cualquier usuario autenticado que desee realizar un depósito a una cuenta bancaria registrada en Bankify. |
@@ -27,7 +26,7 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | **Título** | Ingresar número de cuenta destino |
 | **Descripción** | Como usuario autenticado, quiero ingresar el número de cuenta destino para poder identificar la cuenta bancaria a la que deseo realizar un depósito. |
 | **Prioridad** | Alta |
-| **Estimación** | 3 puntos de historia |
+| **Estimación** | 3 puntos de historia (confirmado en Jira) |
 
 | Campo | Descripción |
 |------|-------------|
@@ -36,7 +35,7 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | **Título** | Validar existencia y estado de la cuenta destino |
 | **Descripción** | Como usuario autenticado, quiero que el sistema valide automáticamente si la cuenta destino existe y está activa para poder continuar con el depósito solo cuando sea seguro hacerlo. |
 | **Prioridad** | Alta |
-| **Estimación** | 5 puntos de historia |
+| **Estimación** | 5 puntos de historia (confirmado en Jira) |
 
 | Campo | Descripción |
 |------|-------------|
@@ -45,7 +44,7 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | **Título** | Ingresar y validar monto del depósito |
 | **Descripción** | Como usuario autenticado, quiero ingresar el monto a depositar y que el sistema lo valide para poder asegurarme de que el valor ingresado es mayor a cero antes de confirmar la operación. |
 | **Prioridad** | Alta |
-| **Estimación** | 3 puntos de historia |
+| **Estimación** | 3 puntos de historia (confirmado en Jira) |
 
 | Campo | Descripción |
 |------|-------------|
@@ -54,7 +53,37 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | **Título** | Confirmar depósito y actualizar saldo |
 | **Descripción** | Como usuario autenticado, quiero confirmar la operación de depósito para poder actualizar el saldo de la cuenta destino y tener un registro de la transacción realizada. |
 | **Prioridad** | Media |
-| **Estimación** | 8 puntos de historia |
+| **Estimación** | 8 puntos de historia (confirmado en Jira) |
+
+---
+
+### Video – Estimación Planning Poker: HU-01
+
+> Video de la sesión de Planning Poker en la que el equipo estimó la historia de usuario HU-01.
+
+[Ver video de estimación – Planning Poker HU-01](https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/diego_montes-b_mail_escuelaing_edu_co/IQDhaoQK8HeYSaryDPucI943AQFUXOsiOV5LhnZR8jPWVzs?e=PTjakW&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+---
+
+### Evidencia Jira – Puntos de Historia Estimados
+
+> Capturas de pantalla de Jira mostrando los Story Points actualizados para cada historia de usuario.
+
+**HU-01 – Ingresar número de cuenta destino (3 pts) | KAN-15**
+
+![Jira HU-01](image.png)
+
+**HU-02 – Validar existencia y estado de la cuenta destino (5 pts) | KAN-14**
+
+![Jira HU-02](image-1.png)
+
+**HU-03 – Ingresar y validar monto del depósito (3 pts) | KAN-17**
+
+![Jira HU-03](image-2.png)
+
+**HU-04 – Confirmar depósito y actualizar saldo (8 pts) | KAN-18**
+
+![Jira HU-04](image-3.png)
 
 ---
 
