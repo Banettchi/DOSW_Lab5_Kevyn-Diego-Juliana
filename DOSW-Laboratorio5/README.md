@@ -13,6 +13,11 @@
 | **Maria Juliana Rodriguez Caicedo** | Desarrollador | [@JuliRodC](https://github.com/JuliRodC) | [maria.rodriguez@mail.escuelaing.edu.co](mailto:maria.rodriguez@mail.escuelaing.edu.co) |
 
 ---
+## Objetivo
+
+El objetivo de este laboratorio es apropiar diferentes usos de **Maven** para la gestión y construcción de proyectos Java. Se busca comprender la estructura y configuración de un proyecto Maven, el uso de arquetipos para la generación automatizada de la estructura del proyecto, la gestión de dependencias y la integración con herramientas de control de versiones como Git/GitHub mediante flujos de trabajo con ramas y pull requests.
+---
+---
 
 ## **Caso de Estudio: Bankify**
 
