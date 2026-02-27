@@ -53,11 +53,11 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 
 ---
 
-### 🎥 Video – Estimación Planning Poker: HU-04
+### 🎥 Video – Estimación Planning Poker: HU-01
 
-> Video de la sesión de Planning Poker en la que el equipo estimó la historia de usuario HU-04.
+> Video de la sesión de Planning Poker en la que el equipo estimó la historia de usuario HU-01.
 
-[▶️ Ver video de estimación – Planning Poker HU-04](https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/diego_montes-b_mail_escuelaing_edu_co/IQDhaoQK8HeYSaryDPucI943AQFUXOsiOV5LhnZR8jPWVzs?e=PTjakW&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+[▶️ Ver video de estimación – Planning Poker HU-01](https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/diego_montes-b_mail_escuelaing_edu_co/IQDhaoQK8HeYSaryDPucI943AQFUXOsiOV5LhnZR8jPWVzs?e=PTjakW&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ---
 
