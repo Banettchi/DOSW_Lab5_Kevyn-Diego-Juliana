@@ -60,4 +60,3 @@ Al principio no todos pensábamos igual; por ejemplo, uno veía algo fácil y ot
 
 ---
 
-## **Historial de Pull Requests**
