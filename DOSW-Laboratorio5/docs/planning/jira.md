@@ -64,7 +64,13 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 ---
 
 ### 5. Sprint Backlog
+![Jira20.png](../images/Jira20.png)
 
-Parte5
-
-> **Justificación de la planeación:** 
+> **Justificación de la planeación:**
+El proyecto está configurado en Jira bajo el framework Kanban.
+Para representar el primer sprint se incluyeron las historias
+HU-01, HU-02 y HU-03 (11 puntos en total) en estado "En Proceso",
+dado que tienen prioridad Alta. La HU-04 queda pendiente para el
+siguiente sprint por tener prioridad Media y mayor complejidad
+(8 puntos). Las tareas fueron asignadas a cada integrante del equipo
+según su rol 
